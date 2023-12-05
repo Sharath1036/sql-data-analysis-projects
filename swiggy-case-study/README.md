@@ -10,4 +10,5 @@
 </ul>
 
 <h3>Schema diagram</h3>
-<img>![Swiggy](https://github.com/Sharath1036/sql-data-analysis-projects/assets/83855796/6c840758-420d-424e-9a24-1d40ab216f76)</img>
+![plot](./E:/Data Science/SQL/swiggy-case-study/swiggy.png)
+
