@@ -10,5 +10,5 @@
 </ul>
 
 <h3>Schema diagram</h3>
-![plot](./E:/Data Science/SQL/swiggy-case-study/swiggy.png)
+![swiggy](Swiggy.png)
 
