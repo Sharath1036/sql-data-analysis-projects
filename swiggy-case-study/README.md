@@ -10,5 +10,5 @@
 </ul>
 
 <h3>Schema diagram</h3>
-![swiggy](Swiggy.png)
 
+![Swiggy](https://github.com/Sharath1036/sql-data-analysis-projects/assets/83855796/8ca9306b-f044-4309-b59c-6bc17fb99176)
